@@ -1,27 +1,106 @@
-# Project Overview
+# Rabbit Tracks Journals — Project Overview
 
-## Why I Started Rabbit Tracks
+## Project Description
 
-I wanted to create a place where people could keep track of the things they're curious about. Sometimes a question leads to research, that research leads to a discovery, and that discovery leads to even more questions.
+Rabbit Tracks Journals is a personal research journal designed to help people capture ideas, explore interests, organize information, and keep track of what they learn.
 
-I wanted Rabbit Tracks to make it easier to keep that process organized instead of having notes, links, and ideas spread across different places.
+Users can create research entries, categorize them as questions or discoveries, write notes, and maintain references to sources connected to their work.
 
-The name reflects that idea. Like following a rabbit trail, one thought can lead to another, and I wanted a way to keep track of where those trails go.
+The application provides a central place to organize and revisit research rather than leaving notes, links, and ideas scattered across different places.
 
-## What Rabbit Tracks Does
+## Why I Started Rabbit Tracks Journals
 
-Rabbit Tracks is a personal research journal. Users can create entries, label them as questions or discoveries, write notes, and keep references to sources connected to their work.
+I wanted to create a place where people could keep track of the things they're curious about.
 
-The dashboard gives users a starting point, while the research library provides a place to browse and find everything they've saved.
+Research doesn't always follow a straight path. Someone might begin with a question, discover something unexpected, explore a related subject, and develop an entirely new interest.
+
+I wanted to create an application that makes it easier to document that process and keep the information organized along the way.
+
+The name Rabbit Tracks Journals reflects the idea that curiosity can lead in different directions. The application isn't limited to following rabbit holes or answering specific questions. It's intended to support a broader range of personal research and exploration.
+
+## The Problem I'm Addressing
+
+People often collect research across different places, including documents, browser bookmarks, notes applications, and individual links.
+
+As information accumulates, it can become difficult to keep everything organized, remember where something came from, or return to research that was previously started.
+
+Rabbit Tracks Journals aims to address this by providing one place to create, organize, and revisit personal research.
+
+The focus is on making research easier to maintain over time rather than simply collecting information.
 
 ## Who It's For
 
-Rabbit Tracks is for people who enjoy learning, researching, exploring ideas, or keeping track of things they want to understand better.
+Rabbit Tracks Journals is intended for people who enjoy learning, researching, exploring ideas, or keeping track of things they want to understand better.
 
-It doesn't need to be limited to academic research. Someone might use it to explore a hobby, learn about a new subject, investigate a question, or keep notes while working on a personal interest.
+It isn't limited to academic research.
+
+Someone might use it to:
+- Explore a personal interest or hobby.
+- Investigate a question.
+- Learn about an unfamiliar subject.
+- Record something they recently discovered.
+- Keep notes and references while researching.
+- Revisit information they've collected previously.
+
+## Core Experience
+
+The application will focus on five main activities:
+
+1. **Capture:** Create an entry to document a question, discovery, or area of interest.
+2. **Write:** Add notes and information gathered during research.
+3. **Reference:** Keep track of sources connected to an entry.
+4. **Organize:** Categorize entries and browse them through the application's navigation.
+5. **Revisit:** Search for saved research, open previous entries, and make changes.
+
+## Main Application Areas
+
+The planned application includes:
+
+- **Dashboard:** A starting point with recent research, search, and access to new entries.
+- **Research Library:** A central location for browsing saved entries.
+- **Questions:** A view of entries categorized as questions.
+- **Discoveries:** A view of entries categorized as discoveries.
+- **Sources:** A place to review references associated with research entries.
+- **Settings:** A place for basic application preferences.
+
+Questions and discoveries will use the same underlying entry structure and shared editor.
 
 ## What I Want the Experience to Feel Like
 
-I want Rabbit Tracks to feel organized without being overwhelming. It should be easy to create an entry, find something previously saved, and understand how different pieces of research fit together.
+I want Rabbit Tracks Journals to feel organized without being overwhelming.
 
-I'm prioritizing clarity and usability over adding a large number of features.
+Users should be able to create an entry, find previously saved research, and understand how different pieces of information fit into their personal collection.
+
+I'm prioritizing clarity, usability, and a straightforward experience over adding a large number of features.
+
+## Current Development Direction
+
+I'm rebuilding the application from the ground up with an emphasis on understanding the implementation rather than simply producing a finished interface.
+
+My intended frontend framework is React, supported by JavaScript and CSS.
+
+I'll establish the HTML, CSS, and JavaScript fundamentals first before transitioning into React.
+
+I'm developing incrementally and maintaining documentation throughout the process so that technical decisions, progress, and lessons learned remain accessible.
+
+## Project Status
+
+**Completed:**
+- Initial project reset and development direction.
+- Initial Excalidraw wireframes.
+- Initial user-flow mapping.
+- Repository and documentation structure.
+- Initial HTML, CSS, and JavaScript file creation.
+
+**In progress:**
+- Refining the application purpose and requirements.
+- Confirming the MVP scope.
+- Establishing the frontend development foundation.
+
+**Not started:**
+- Frontend implementation.
+- React application setup.
+- Functional research-entry management.
+- Integration with persistent data storage.
+
+This document will be updated as the application's purpose, requirements, and implementation become more defined.
