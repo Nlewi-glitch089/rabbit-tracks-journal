@@ -1,32 +1,44 @@
-# Rabbit Tracks
+# Rabbit Tracks Journals
 
-Rabbit Tracks is a personal research journal that gives people a place to keep track of their questions, discoveries, notes, and sources.
+Rabbit Tracks Journals is the planning repository for a personal research journal. The idea is to give people one place to capture questions and discoveries, write notes, keep source references, and return to research later.
 
-I wanted to build something that makes it easier to follow an idea, write down something interesting, and come back to it later without having information scattered across different places.
+The goal is to make personal research easier to organize and maintain over time, whether someone is exploring a hobby, learning about an unfamiliar subject, or following a question that leads somewhere unexpected.
 
-The goal is to create a simple, organized space where research can grow over time.
+## Project status
 
-## What I'm Building
+**Planning and initial scaffold — not yet a runnable application.**
 
-Rabbit Tracks will allow users to:
+The repository currently contains project documentation and placeholder frontend files. The application entry files are empty, and there is no `package.json` or configured development server yet. The features described below are planned, not completed functionality.
 
-- Create and organize research entries.
-- Save questions they want to explore.
-- Record discoveries and information they've learned.
-- Keep notes connected to their research.
-- Save references to sources.
-- Search through their existing research.
+## Planned first version
 
-## Project Status
+- **Dashboard:** start a new entry, search, and revisit recently updated research.
+- **Research library:** browse and filter saved entries.
+- **Questions and discoveries:** view entries by type.
+- **Shared entry editor:** create or edit either type of entry with a title, notes, and source references.
+- **Sources:** review references connected to research entries.
+- **Settings:** manage basic application preferences.
 
-I'm rebuilding Rabbit Tracks from the ground up. I'm using this version to take a more deliberate approach to planning, designing, and developing the application.
+Questions and discoveries are intended to use the same underlying entry structure and editor.
 
-I'll be documenting the process as I go, including design decisions, technical choices, challenges, and improvements.
+## Planned technology
 
-## Technology
+The current technical plan is to build the frontend with React, JavaScript, and CSS. The implementation approach and supporting tools may be refined as development begins.
 
-The application is being built with React, JavaScript, and CSS. I'll document additional technologies here as they're introduced.
+## Project documentation
 
-## Getting Started
+The `docs/` folder contains the current planning material:
 
-Setup instructions will be added once the initial application structure is in place.
+- [Project overview](docs/PROJECT_OVERVIEW.md) — purpose, audience, and planned application areas.
+- [First version requirements](docs/REQUIREMENTS.md) — the initial feature scope and what must work.
+- [Technical plan](docs/TECHNICAL_PLAN.md) — intended structure and development sequence.
+- [User flows](docs/USER_FLOWS.md) — how users will move through the main tasks.
+- [Design notes](docs/DESIGN_NOTES.md) — wireframe direction and screen behavior.
+- [Development decisions](docs/DECISIONS.md) — the reasoning behind key choices.
+- [Development log](docs/DEVELOPMENT_LOG.md) — work completed and lessons learned.
+
+## Running the project
+
+There are no local run commands yet. Setup instructions will be added after the frontend scaffold and its dependencies are in place.
+
+As implementation progresses, this README and the development log will be updated to distinguish completed work from planned features.
