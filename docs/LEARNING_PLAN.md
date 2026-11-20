@@ -30,7 +30,7 @@ Codecademy's catalog and course availability can change. The courses below were 
 
 [Open Learn CSS](https://www.codecademy.com/learn/learn-css)
 
-**Why second:** CSS controls how the HTML structure looks. Learning it before adding lots of React components will make it easier to understand the difference between the interface structure and its presentation.
+**Why second:** CSS controls how the HTML structure looks. Learning it before adding lots of React components will make it easier to understand the difference between the interface structure and its presentation. Codecademy recommends completing Learn HTML first.
 
 **Focus on:**
 - CSS syntax and selectors.
@@ -55,9 +55,9 @@ Codecademy's catalog and course availability can change. The courses below were 
 
 **Rabbit Tracks connection:** Size the sidebar, dashboard sections, research cards, forms, and content area.
 
-### 4. Learn CSS: Flexbox and Grid — approximately 4 hours
+### 4. Learn CSS: Flexbox and Grid — 4 hours
 
-Find this course in the [Codecademy HTML and CSS catalog](https://www.codecademy.com/catalog/language/html-css).
+[Open Learn CSS: Flexbox and Grid](https://www.codecademy.com/catalog/language/html-css)
 
 **Why here:** Flexbox and Grid solve different layout problems. They help arrange interface elements without relying on arbitrary spacing or positioning.
 
@@ -69,11 +69,25 @@ Find this course in the [Codecademy HTML and CSS catalog](https://www.codecademy
 
 **Rabbit Tracks connection:** Arrange the application shell, sidebar, dashboard sections, and responsive research-library layout.
 
-### 5. Learn JavaScript — 15 hours
+### 5. Learn JavaScript: Fundamentals — 4 hours
+
+[Open Learn JavaScript: Fundamentals](https://www.codecademy.com/learn/learn-javascript-fundamentals)
+
+**Why here:** This is a shorter introduction to JavaScript behavior and control flow before moving into the larger JavaScript course.
+
+**Focus on:**
+- Basic JavaScript syntax.
+- Values and expressions.
+- Conditional logic.
+- Repetition and program flow.
+
+**Rabbit Tracks connection:** Understand how the application can respond to user actions and make decisions based on the data it receives.
+
+### 6. Learn JavaScript — 15 hours
 
 [Open Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
-**Why fifth:** JavaScript provides the behavior behind interactive web applications. React is a JavaScript library, so its components, state, event handlers, and data rendering rely on JavaScript concepts.
+**Why sixth:** This course develops the JavaScript foundation React relies on. It covers variables, conditionals, functions, scope, arrays, and loops. The shorter Fundamentals course is a warm-up; this is the more complete core course.
 
 **Focus on:**
 - Variables and data types.
@@ -85,25 +99,11 @@ Find this course in the [Codecademy HTML and CSS catalog](https://www.codecademy
 
 **Rabbit Tracks connection:** Understand how research entries are represented, how user actions change data, and how lists of entries can be processed.
 
-### 6. Learn JavaScript: Arrays and Loops — 3 hours
-
-[Open Learn JavaScript: Arrays and Loops](https://www.codecademy.com/learn/learn-javascript-arrays-and-loops)
-
-**Why here:** Rabbit Tracks will display collections of research entries. Arrays and loops are important for understanding how data is stored, searched, filtered, and displayed.
-
-**Focus on:**
-- Creating and accessing arrays.
-- Iterating through collections.
-- Updating and working with lists.
-- Understanding when repetition is useful.
-
-**Rabbit Tracks connection:** Display research entries, filter questions and discoveries, and understand the JavaScript concepts behind React's `map()` patterns.
-
 ### 7. Learn React — 13 hours
 
 [Open Learn React](https://www.codecademy.com/learn/react-101)
 
-**Why last in the core sequence:** React builds on JavaScript and uses JSX to describe interfaces. Codecademy lists HTML and JavaScript as prerequisites for this course.
+**Why last in the core sequence:** React builds on JavaScript and uses JSX to describe interfaces. Codecademy lists Learn HTML and Learn JavaScript as prerequisites for this course.
 
 **Focus on:**
 - JSX.
@@ -133,9 +133,9 @@ I won't start backend courses just to collect more topics. Once the frontend wor
 
 Possible next courses include:
 
-- **Learn Node.js: Fundamentals** — an introduction to the JavaScript runtime used for server-side development. [Find it in the Codecademy web development catalog](https://www.codecademy.com/catalog/subject/web-development).
-- **Learn Node.js** — a broader introduction to Node.js and backend application concepts. [Find it in the Codecademy web development catalog](https://www.codecademy.com/catalog/subject/web-development).
-- **Learn MongoDB** — an introduction to a document database and basic CRUD operations. [Find it in the Codecademy web development catalog](https://www.codecademy.com/catalog/subject/web-development).
+- **Learn Node.js: Fundamentals** — an introduction to the JavaScript runtime used for server-side development. [Open the course](https://www.codecademy.com/learn/learn-nodejs-fundamentals).
+- **Learn Node.js** — a broader introduction to Node.js and backend application concepts. [Open the course](https://www.codecademy.com/learn/learn-node-js).
+- **Learn MongoDB** — an introduction to a document database and basic CRUD operations. [Open the course](https://www.codecademy.com/learn/learn-mongodb).
 
 These are future options, not confirmed technology choices for Rabbit Tracks. I'll first decide what the application needs and then follow the relevant learning path.
 
@@ -162,8 +162,8 @@ I'll update this section as I study.
 | 2 | Learn CSS | Not started |
 | 3 | Learn CSS: Box Model and Layout | Not started |
 | 4 | Learn CSS: Flexbox and Grid | Not started |
-| 5 | Learn JavaScript | Not started |
-| 6 | Learn JavaScript: Arrays and Loops | Not started |
+| 5 | Learn JavaScript: Fundamentals | Not started |
+| 6 | Learn JavaScript | Not started |
 | 7 | Learn React | Not started |
 
 Course completion is not the only measure of progress. The goal is to understand the material and apply it confidently while building Rabbit Tracks.
