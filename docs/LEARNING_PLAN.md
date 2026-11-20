@@ -57,7 +57,7 @@ Codecademy's catalog and course availability can change. The courses below were 
 
 ### 4. Learn CSS: Flexbox and Grid — 4 hours
 
-[Open Learn CSS: Flexbox and Grid](https://www.codecademy.com/catalog/language/html-css)
+[Open Learn CSS: Flexbox and Grid](https://www.codecademy.com/learn/learn-css-flexbox-and-grid)
 
 **Why here:** Flexbox and Grid solve different layout problems. They help arrange interface elements without relying on arbitrary spacing or positioning.
 
@@ -134,7 +134,7 @@ I won't start backend courses just to collect more topics. Once the frontend wor
 Possible next courses include:
 
 - **Learn Node.js: Fundamentals** — an introduction to the JavaScript runtime used for server-side development. [Open the course](https://www.codecademy.com/learn/learn-nodejs-fundamentals).
-- **Learn Node.js** — a broader introduction to Node.js and backend application concepts. [Open the course](https://www.codecademy.com/learn/learn-node-js).
+- **Learn Node.js: Setting Up a Server** — a follow-up that introduces creating a basic HTTP server. [Open the course](https://www.codecademy.com/learn/learn-nodejs-setting-up-a-server).
 - **Learn MongoDB** — an introduction to a document database and basic CRUD operations. [Open the course](https://www.codecademy.com/learn/learn-mongodb).
 
 These are future options, not confirmed technology choices for Rabbit Tracks. I'll first decide what the application needs and then follow the relevant learning path.
